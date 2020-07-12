@@ -1,0 +1,1 @@
+ifort paramod.F90 fdmodeling_main.F90 -o fdmodeling -Ilib -pipe -03 -fopenmp -m64

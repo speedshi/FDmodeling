@@ -1,0 +1,10 @@
+For the modeling software, the input and output parameters should all use SI unit, i.e. kg, meter and second.
+
+For example:
+displacement, distance or length: meter;
+velocity: m/s;
+density: kg/m^3;
+time: second;
+moment tensor: N*m.
+
+
